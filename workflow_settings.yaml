@@ -1,5 +1,0 @@
-dataformCoreVersion: 3.0.20
-defaultProject: bq-sample-project
-defaultLocation: US
-defaultDataset: dataform
-defaultAssertionDataset: dataform_assertions
